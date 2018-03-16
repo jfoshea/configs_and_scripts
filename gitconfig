@@ -1,0 +1,18 @@
+[user]
+    name = John O'Shea
+    email = jfoshea@gmail.com
+[core]
+    editor = vim
+    excludesfile = /home/joshea/.gitignore
+    autocrlf = false
+[diff "bz2"]
+    binary = true
+    textconv = /bin/bzcat
+[color]
+    ui = auto
+[apply]
+    whitespace = nowarn
+[merge]
+    tool = meld
+    conflictstyle = diff3
+    prompt = false
