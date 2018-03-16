@@ -1,6 +1,6 @@
 [user]
     name = John O'Shea
-    email = jfoshea@gmail.com
+    email = abc@123.com
 [core]
     editor = vim
     excludesfile = /home/joshea/.gitignore
