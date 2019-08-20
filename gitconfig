@@ -16,3 +16,10 @@
     tool = meld
     conflictstyle = diff3
     prompt = false
+[sendemail]
+	; setup for using git send-email; prompts for password
+	smtpuser = abc@gmail.com
+	smtpserver = smtp.googlemail.com
+	smtpencryption = tls
+	smtpserverport = 587
+
